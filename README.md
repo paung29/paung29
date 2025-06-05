@@ -8,7 +8,7 @@ I'm a software engineer focused on modern fullstack and scalable systems.
 - Microservices Architecture( currently learning Docker, Kubernetes, RabbitMq, Spring Cloud and Microservices Architecture )
 
 
- Languages: Java, TypeScript
+ Languages: Java, TypeScript, Dart
 - Frameworks: Spring Boot, Flutter, React, Next.js
 - Databases: PostgreSQL, MySql
 - Tools: REST APIs, Git, Docker
