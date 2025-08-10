@@ -19,6 +19,7 @@ I'm a software engineer focused on modern fullstack and scalable systems.
 - Docker
 - Kubernetes
 - Spring Cloud
+- RabbitMQ
 - Microservices Architecture
 
 
