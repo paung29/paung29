@@ -8,11 +8,13 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ## 🚀 Tech Stack
 
 ### 💻 Languages  
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🖥 Frameworks & Libraries  
+![Gin](https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -21,6 +23,7 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ### 🗄 Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,6 +38,7 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 - **React with Next.js**  
 - **Docker & Kubernetes**  
 - **Spring Cloud & RabbitMQ**  
+- **Go with Gin & Redis**  
 - **Microservices Architecture**
 
 ---
