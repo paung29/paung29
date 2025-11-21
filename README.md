@@ -13,8 +13,7 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🖥 Frameworks & Libraries  
-![Gin](https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### 🖥 Frameworks & Libraries 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -38,7 +37,7 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 - **React with Next.js**  
 - **Docker & Kubernetes**  
 - **Spring Cloud & RabbitMQ**  
-- **Go with Gin & Redis**  
+- **Go with Fiber & Redis**  
 - **Microservices Architecture**
 
 ---
