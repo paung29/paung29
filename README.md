@@ -43,10 +43,13 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paung29&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paung29&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=paung29&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=paung29&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
