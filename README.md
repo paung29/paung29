@@ -13,7 +13,7 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🖥 Frameworks & Libraries 
+### 🖥 Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -27,24 +27,15 @@ I enjoy working across the stack — from **backend APIs** to **mobile apps** an
 ### ⚙️ Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-%23007EC6.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 📚 Currently Learning  
-- **React with Next.js**  
-- **Docker & Kubernetes**  
-- **Spring Cloud & RabbitMQ**  
-- **Go with Fiber & Redis**  
-- **Microservices Architecture**
-
----
-
 ## 📊 GitHub Stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paung29&theme=github-dark" />
-
 
 ---
 
